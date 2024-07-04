@@ -55,7 +55,7 @@
       },
       {
         "id":6,
-        "question": "Qual meu tipo ambiente favorito ?",
+        "question": "Qual meu tipo de ambiente favorito ?",
         "options":[
           {"id": 1, "name":"Festa", "alias":"B"},
           {"id": 2, "name":"Casa", "alias":"A"},
@@ -83,9 +83,8 @@
           {"id": 2, "name":"Periquito", "alias":"B"},
           {"id": 3, "name":"Gato", "alias":"B"},
           {"id": 4, "name":"Jabuti", "alias":"B"},
-          {"id": 5, "name":"Preá", "alias":"A"},
           {"id": 6, "name":"Porquinho da Índia", "alias":"B"},
-          {"id": 6, "name":"Coelho", "alias":"B"}
+          {"id": 6, "name":"Coelho", "alias":"A"}
         ]
       },
       {
@@ -96,7 +95,6 @@
           {"id": 2, "name":"Casa em outro país", "alias":"B"},
           {"id": 3, "name":"Apartamento", "alias":"B"},
           {"id": 4, "name":"Casa simples", "alias":"B"},
-          {"id": 5, "name":"Casa com mais de um andar", "alias":"B"},
           {"id": 6, "name":"Casa grande", "alias":"A"}
         ]
       },
@@ -108,8 +106,7 @@
           {"id": 2, "name":"O universo todo", "alias":"B"},
           {"id": 3, "name":"Infinito", "alias":"B"},
           {"id": 4, "name":"Infinito + 1", "alias":"B"},
-          {"id": 5, "name":"Infinito + Infinito", "alias":"B"},
-          {"id": 6, "name":"Todas as anteriores e mais um pouco", "alias":"A"}
+          {"id": 6, "name":"Todas as anteriores e mais um pouco 😎", "alias":"A"}
         ]
       }
     ],
